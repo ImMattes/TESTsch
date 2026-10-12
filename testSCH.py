@@ -14,5 +14,5 @@ print(f"Seznam: {cisla}")
 
 prazdno = []
 prazdno.append(10)
-prazdno.append(20)
-print(f"Seznam: {prazdno}")
+prazdno.append(20, 1500)  
+print(f"Seznam2: {prazdno}")
