@@ -1,6 +1,8 @@
+# Další opisování
+
 n = 10
 
 while n > 0:
-    print(n)
-    n -= 1
+    print(n, end=' ')
+    n -= 1               #n = n - 1 (to stejne s +)
 print("konec odpočitávání")
